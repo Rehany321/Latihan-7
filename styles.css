@@ -1,0 +1,23 @@
+body {
+    background-color: #d3e7eb;
+}
+
+nav {
+    background-color: #d3e0e2;
+}
+
+.navbar-brand img {
+    max-height: 80px;
+}
+
+.container{
+    max-width: 1200px;
+}
+
+.icon i {
+    font-size: 60px;
+}
+
+.icon1 {
+    max-width: 90px;
+}
